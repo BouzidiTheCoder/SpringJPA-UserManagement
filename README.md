@@ -1,4 +1,4 @@
-# Activité Pratique N° 2 : Gestion des Utilisateurs avec Spring JPA
+# Activité Pratique N° 2 : Gestion des Utilisateurs avec Spring JPA :
 
 ### Ce projet est réalisé dans le cadre de l'Activité Pratique N° 2 sur ORM JPA Hibernate Spring Data.
 
