@@ -33,6 +33,8 @@ L'objectif de ce projet est de créer une application de gestion des utilisateur
 
 ## Base de Données H2 Console :
 
+#### Capture d'écran de la console H2 montrant la structure des tables et les données après le démarrage de l'application Spring Boot.
+
 ![App](https://github.com/BouzidiTheCoder/SpringJPA-UserManagement/assets/134173504/429d82ac-341e-4ce1-8da5-85f8092b9dc5)
 
 ![login](https://github.com/BouzidiTheCoder/SpringJPA-UserManagement/assets/134173504/416a3d17-8c83-4154-a7be-26d5ba9a47f7)
@@ -50,6 +52,8 @@ L'objectif de ce projet est de créer une application de gestion des utilisateur
 
 
 ## Base de Données MySQL :
+
+#### Capture d'écran de phpMyAdmin montrant la structure des tables et les données après la migration depuis la base de données H2 vers MySQL.
 
 ![AppMySql](https://github.com/BouzidiTheCoder/SpringJPA-UserManagement/assets/134173504/17fc2396-4ce7-478c-9920-8742beb067d2)
 
